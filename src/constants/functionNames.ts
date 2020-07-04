@@ -1,0 +1,14 @@
+/*
+  FUNCTION NAMES FOR THE FINAL EXPORT
+*/
+
+// NUMBER VALIDATOR FUNCTION NAMES
+const PHONE_VALIDATOR: string = 'isValidEmail';
+
+// STRING VALIDATOR FUNCTION NAMES
+const NAME_VALIDATOR: string = 'isValidName';
+
+export default {
+  PHONE_VALIDATOR,
+  NAME_VALIDATOR,
+};

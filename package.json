@@ -1,0 +1,20 @@
+{
+  "name": "pattern-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "validate",
+    "pattern",
+    "regex"
+  ],
+  "author": "Nilutpal Boruah",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}

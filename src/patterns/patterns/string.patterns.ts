@@ -1,0 +1,1 @@
+export const PERSON_NAME: RegExp = /^[A-Z]([a-Z]{0,64})*$/;

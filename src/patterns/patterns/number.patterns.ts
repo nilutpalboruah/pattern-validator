@@ -1,0 +1,1 @@
+export const PHONE_NUMBER: RegExp = /^[0-9]{10}$/; // This is valid for INDIAN USERS
